@@ -1,4 +1,4 @@
-def reverse_each_word(string)
-  string = ["Hello there, and how are you?"]
-  string.join(" ")
+def reverse_each_word(sentence)
+  sentence = ("Hello there, and how are you?")
+  sentence.join(" ")
 end
