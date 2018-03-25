@@ -1,5 +1,4 @@
 def reverse_each_word(string)
   string = "Hello there, and how are you?"
-  string.join
-  string.join.each(&:reverse!)
+  string.join(" ")
 end
